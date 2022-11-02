@@ -1,0 +1,24 @@
+{
+  "name": "usb",
+  "version": "1.0.0",
+  "description": "usb communication",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-4040/usb.git"
+  },
+  "author": "mike4040@me.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-4040/usb/issues"
+  },
+  "homepage": "https://github.com/mike-4040/usb#readme",
+  "dependencies": {
+    "node-hid": "^2.1.2"
+  }
+}
